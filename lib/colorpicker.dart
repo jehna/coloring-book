@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:varityskirja/colorbutton.dart';
 
 const List<Color> COLORS = [
